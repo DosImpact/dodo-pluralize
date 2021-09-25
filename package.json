@@ -1,0 +1,37 @@
+{
+  "name": "dodo-pluralize",
+  "version": "0.1.0",
+  "description": "A Node.js module that returns the plural form of any noun",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha --reporter spec",
+    "cover": "istanbul cover node_modules/mocha/bin/_mocha test/*.js -- -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipszdavido/mypluralize.git"
+  },
+  "keywords": [],
+  "author": "dosimpact <ypd03008@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dosimpact/dodo-pluralize/issues"
+  },
+  "homepage": "https://github.com/dosimpact/dodo-pluralize#readme",
+  "devDependencies": {
+    "@types/chai": "^4.0.4",
+    "@types/mocha": "^2.2.43",
+    "chai": "^4.1.2",
+    "coveralls": "^3.0.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^9.1.1",
+    "ts-node": "^3.3.0",
+    "typescript": "^3"
+  },
+  "dependencies": {
+    "@types/pluralize": "0.0.27",
+    "pluralize": "^7.0.0"
+  }
+}
