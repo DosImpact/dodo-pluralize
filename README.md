@@ -50,3 +50,5 @@ define(function(require,exports,module){
 ```sh
 npm run test
 ```
+
+## CI
