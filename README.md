@@ -1,6 +1,8 @@
-[![Build Status](https://travis-ci.org/philipszdavido/mypluralize.svg?branch=master)](https://travis-ci.org/philipszdavido/mypluralize)
-[![Coverage Status](https://coveralls.io/repos/github/philipszdavido/mypluralize/badge.svg?branch=master)](https://coveralls.io/github/philipszdavido/mypluralize?branch=master)
-[![npm version](https://badge.fury.io/js/mypluralize.svg)](https://badge.fury.io/js/mypluralize)
+[![Build Status](https://app.travis-ci.com/DosImpact/dodo-pluralize.svg?branch=master)](https://app.travis-ci.com/DosImpact/dodo-pluralize)
+[![Coverage Status](https://coveralls.io/repos/github/DosImpact/dodo-pluralize/badge.svg?branch=master)](https://coveralls.io/github/DosImpact/dodo-pluralize?branch=master)
+
+<!-- [![npm version](https://badge.fury.io/js/mypluralize.svg)](https://badge.fury.io/js/mypluralize) -->
+
 # mypluralize
 A Node.js module that returns the plural or singular form of any noun
 
